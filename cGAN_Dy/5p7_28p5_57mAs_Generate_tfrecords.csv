@@ -1,0 +1,3 @@
+index,Phantom_ID,Patient_ID,Slice_num,diseased_lbl,tf_records_name,split
+3585,3585,pt153,pt153_Beheshti53,150,1,DN_5p7_28p5_57_pt153_Beheshti53_l_1_s_150.tfrecords,test
+
